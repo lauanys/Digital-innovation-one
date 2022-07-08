@@ -56,5 +56,3 @@ const MeuCachorro: Cachorro = {
     age: 2 ,
 
 };
-
-
